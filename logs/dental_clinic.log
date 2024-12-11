@@ -1,0 +1,181 @@
+2024-12-11 09:25:35,728 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:25:57,460 - utils.logger - INFO - Classified intent: schedule_appointment
+2024-12-11 09:25:57,460 - utils.logger - ERROR - Error: 'AppointmentService' object has no attribute 'handle_scheduling'
+2024-12-11 09:27:28,121 - utils.logger - INFO - Classified intent: schedule_appointment
+2024-12-11 09:27:28,121 - utils.logger - ERROR - Error: 'AppointmentService' object has no attribute 'handle_scheduling'
+2024-12-11 09:29:15,796 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:29:28,119 - utils.logger - INFO - Classified intent: schedule_appointment
+2024-12-11 09:29:28,120 - utils.logger - ERROR - Error: 'AppointmentService' object has no attribute 'handle_scheduling'
+2024-12-11 09:30:01,934 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:33:17,842 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:34:25,615 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:34:35,003 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 09:34:42,065 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:35:03,430 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 09:35:15,772 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:39:40,597 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:39:46,336 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 09:39:46,337 - utils.logger - ERROR - Error: 'ConversationManager' object has no attribute 'handle_services_query'
+2024-12-11 09:41:00,423 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 09:41:00,423 - utils.logger - ERROR - Error: 'ConversationManager' object has no attribute 'handle_services_query'
+2024-12-11 09:45:27,901 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:45:34,699 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 09:46:16,409 - utils.logger - ERROR - Error adding new patient: table Patients has no column named dob
+2024-12-11 09:46:16,409 - utils.logger - ERROR - Error in registration: table Patients has no column named dob
+2024-12-11 09:47:20,476 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:47:37,991 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 09:47:57,349 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:48:12,991 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 09:52:31,750 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:52:45,851 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:52:53,534 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 09:54:07,794 - utils.logger - INFO - Classified intent: services
+2024-12-11 09:54:25,510 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:54:38,048 - utils.logger - INFO - Classified intent: services
+2024-12-11 09:54:45,125 - utils.logger - INFO - Classified intent: services
+2024-12-11 09:54:57,724 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:55:06,484 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:55:17,950 - utils.logger - INFO - Classified intent: cancel
+2024-12-11 09:55:27,800 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:59:27,086 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:59:34,058 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 09:59:49,665 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 09:59:53,389 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:00:54,638 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 10:00:57,018 - utils.logger - INFO - Classified intent: general
+2024-12-11 10:03:48,175 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:04:06,272 - utils.logger - INFO - Classified intent: general
+2024-12-11 10:11:02,657 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:12:23,265 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 10:12:53,977 - utils.logger - INFO - New patient registered with ID: 1
+2024-12-11 10:13:02,595 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 10:13:39,293 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:16:57,774 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:17:13,111 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:17:17,973 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:17:17,973 - utils.logger - ERROR - Error in main: 'ConversationManager' object has no attribute 'handle_services_query'
+2024-12-11 10:18:12,100 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:18:15,510 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:21:46,258 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:22:10,890 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:22:10,890 - utils.logger - ERROR - Error in main: 'AppointmentService' object has no attribute 'handle_scheduling'
+2024-12-11 10:23:08,563 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:23:12,838 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:23:30,177 - utils.logger - ERROR - Error saving appointment: NOT NULL constraint failed: Patients.dob
+2024-12-11 10:25:04,121 - utils.logger - INFO - Classified intent: services
+2024-12-11 10:25:21,369 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:25:32,712 - utils.logger - ERROR - Error saving appointment: NOT NULL constraint failed: Patients.dob
+2024-12-11 10:29:04,386 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:29:20,925 - utils.logger - ERROR - Error saving appointment: NOT NULL constraint failed: Patients.dob
+2024-12-11 10:29:30,190 - utils.logger - INFO - Classified intent: patient_info
+2024-12-11 10:30:23,029 - utils.logger - INFO - New patient registered with ID: 1
+2024-12-11 10:30:48,353 - utils.logger - ERROR - Error saving appointment: NOT NULL constraint failed: Patients.dob
+2024-12-11 10:35:36,293 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:35:48,709 - utils.logger - ERROR - Error saving appointment: NOT NULL constraint failed: Patients.dob
+2024-12-11 10:35:57,869 - utils.logger - INFO - Classified intent: services
+2024-12-11 10:36:06,761 - utils.logger - INFO - Classified intent: cancel
+2024-12-11 10:40:04,537 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:40:16,247 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:41:32,611 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:41:35,119 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:41:36,596 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 10:45:34,568 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:45:37,114 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:45:37,114 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_services'
+2024-12-11 10:46:26,689 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:46:31,380 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 10:47:01,732 - utils.logger - ERROR - Error viewing appointments: no such table: Appointments
+2024-12-11 10:48:45,993 - utils.logger - ERROR - Error viewing appointments: no such table: Appointments
+2024-12-11 10:50:44,234 - utils.logger - INFO - Database tables created successfully
+2024-12-11 10:50:44,235 - utils.logger - INFO - Database tables created successfully
+2024-12-11 10:50:44,236 - utils.logger - INFO - Database tables created successfully
+2024-12-11 10:50:44,236 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 10:50:46,892 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 11:32:19,245 - utils.logger - INFO - Database tables created successfully
+2024-12-11 11:32:19,246 - utils.logger - INFO - Database tables created successfully
+2024-12-11 11:32:19,246 - utils.logger - INFO - Database tables created successfully
+2024-12-11 11:32:19,246 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:10:52,603 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:10:52,604 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:10:52,605 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:10:53,153 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:11:01,007 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:17:33,291 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:17:33,293 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:17:33,295 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:17:33,904 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:17:37,404 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:24:54,966 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:24:54,967 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:24:54,968 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:24:55,544 - utils.logger - ERROR - Error in main: DoctorPortal() takes no arguments
+2024-12-11 21:27:44,660 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:27:44,661 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:27:44,662 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:27:44,663 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:27:45,219 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:27:49,539 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:28:23,769 - utils.logger - ERROR - Error in doctor portal: 'DoctorPortal' object has no attribute 'search_patient'
+2024-12-11 21:29:35,519 - utils.logger - ERROR - Error in doctor portal: 'DoctorPortal' object has no attribute 'search_patient'
+2024-12-11 21:29:44,137 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:29:44,139 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:29:44,140 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:29:44,141 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:29:44,707 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:29:48,145 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:33:31,225 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:33:31,227 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:33:31,228 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:33:31,228 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:33:31,774 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:33:36,772 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:34:22,546 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:34:22,547 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:34:22,549 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:34:22,550 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:34:23,046 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:34:58,551 - utils.logger - INFO - Classified intent: service_details
+2024-12-11 21:35:04,843 - utils.logger - INFO - Classified intent: service_details
+2024-12-11 21:35:12,868 - utils.logger - INFO - Classified intent: services
+2024-12-11 21:35:23,177 - utils.logger - INFO - Classified intent: service_details
+2024-12-11 21:38:27,068 - utils.logger - INFO - Classified intent: service_details
+2024-12-11 21:46:22,063 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:46:22,065 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:46:22,066 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:46:22,067 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:46:22,615 - utils.logger - INFO - Dental Clinic Assistant started
+2024-12-11 21:46:29,620 - utils.logger - INFO - Classified intent: registration
+2024-12-11 21:46:56,176 - utils.logger - ERROR - Error completing registration: 'ConversationManager' object has no attribute 'db'
+2024-12-11 21:49:20,980 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:49:20,982 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:49:20,982 - utils.logger - ERROR - Error in main: AppointmentService.__init__() takes 1 positional argument but 2 were given
+2024-12-11 21:52:37,254 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:52:37,256 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:52:42,108 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:52:50,135 - utils.logger - INFO - Classified intent: registration
+2024-12-11 21:53:44,146 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 21:53:47,935 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 21:53:47,936 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_unknown'
+2024-12-11 21:56:01,550 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 21:56:01,551 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_unknown'
+2024-12-11 21:56:08,959 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:56:08,960 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:56:15,155 - utils.logger - INFO - Classified intent: registration
+2024-12-11 21:56:17,278 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_registration_flow'
+2024-12-11 21:56:21,782 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_registration_flow'
+2024-12-11 21:58:10,748 - utils.logger - INFO - Database tables created successfully
+2024-12-11 21:58:10,749 - utils.logger - INFO - Database initialized successfully
+2024-12-11 21:58:14,242 - utils.logger - INFO - Classified intent: registration
+2024-12-11 21:58:16,953 - utils.logger - INFO - Classified intent: unknown
+2024-12-11 22:03:23,537 - utils.logger - INFO - Database tables created successfully
+2024-12-11 22:03:23,539 - utils.logger - INFO - Database initialized successfully
+2024-12-11 22:03:55,449 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 22:03:57,621 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_scheduling_flow'
+2024-12-11 22:04:01,021 - utils.logger - ERROR - Error processing input: 'ConversationManager' object has no attribute 'handle_scheduling_flow'
+2024-12-11 22:05:24,641 - utils.logger - INFO - Database tables created successfully
+2024-12-11 22:05:24,642 - utils.logger - INFO - Database initialized successfully
+2024-12-11 22:05:27,908 - utils.logger - INFO - Classified intent: schedule
+2024-12-11 22:07:14,409 - utils.logger - INFO - Database tables created successfully
+2024-12-11 22:07:14,410 - utils.logger - INFO - Database initialized successfully
+2024-12-11 22:07:20,626 - utils.logger - INFO - Classified intent: registration
+2024-12-11 22:08:17,349 - utils.logger - INFO - Classified intent: general
